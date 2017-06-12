@@ -1,2 +1,3 @@
 # hello-world
 Following the Github Guide to create my first repository and hopefully learn the ways of the force along the way...
+I'm an artist and designer and a Midwestern Texan. 
